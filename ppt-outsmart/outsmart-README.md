@@ -7,7 +7,7 @@ This project, developed for the American Language Program at Columbia University
 I:
 
 * Read and analyzed "Outsmart Your Brain," identifying key themes and insights.  I further explored the topic by comparing Willingham's work with "Fifty Inventions That Shaped the Modern Economy" by Tim Harford, focusing on their relevance to academic performance in college.
-* Created a Google Sheet learning tool to organize information, quotes, and chapter summaries. [Link to Sheet]
+* Created a Google Sheet learning tool to organize information, quotes, and chapter summaries.
 * Developed a Google Slides presentation summarizing the review and highlighting productive learning methods, including time management, memorization techniques, procrastination strategies, and exam preparation. 
 
 
@@ -20,4 +20,4 @@ I used:
 * **Google Docs:** Document formatting, organization, collaboration, sharing, styles, and headings.
 
 ## Deliverables
-* [Link to Slides (HTML)] https://se-sally.github.io/portfolio/ppt-outsmart/outsmart.html
+* Link to Slides (HTML) https://se-sally.github.io/portfolio/ppt-outsmart/outsmart.html
