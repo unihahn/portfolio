@@ -36,6 +36,3 @@ A Random Forest Classifier with 100 estimators and a maximum depth of 5 was trai
 2.  Open the Jupyter Notebook `titanic_model.ipynb`.
 3.  Run the cells in the notebook.  The `submission.csv` file will be created in the same directory as the notebook.
 
-
-#Sally
-
