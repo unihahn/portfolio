@@ -15,12 +15,8 @@ Below you'll find a list of the projects included in this portfolio.  Each proje
 *   **[Outsmart Your Brain Book Review](outsmart-README.md):** A book review and learning tool developed using Google Workspace applications.
 *   **[Web Cat](cat-README.md):** A web application demonstrating front-end development skills.
 
-## Skills (Optional)
-
-Programming Languages: Python, JavaScript;  Tools: Git, Docker;  Cloud Platforms: AWS, Google Cloud;  Other: Google Workspace, Data Analysis.
 
 ## How to Navigate
 
 Each project in this repository has its own directory.  Within each directory, you'll find a `README.md` file with detailed information about that specific project.  Click on the project names above to navigate to their respective directories and README files.
 
-- Sally.
