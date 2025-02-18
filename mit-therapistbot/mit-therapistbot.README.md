@@ -1,6 +1,6 @@
 # TherapistBot (In Development)
 
-TherapistBot is a mobile application under development using MIT App Inventor.  This project is in its early stages and aims to provide users with accessible and convenient mental health support and resources. It explores the potential of no-code development platforms for creating helpful applications in the mental health domain. The app's design is based on core principles of active listening and therapeutic questioning.
+TherapistBot is a mobile application under development using MIT App Inventor. This project is a vastly simplified version of a famous program called ELIZA that was developed at MIT in the early 1960s by Professor Joseph Weizenbaum. It is inspired by ELIZA's approach to natural language interaction, though TherapistBot focuses on providing mental health support resources.  This project is in its early stages and aims to provide users with accessible and convenient mental health support and resources. It explores the potential of no-code development platforms for creating helpful applications in the mental health domain. The app's design is based on core principles of active listening and therapeutic questioning.
 
 ## Features (Current)
 
@@ -9,7 +9,7 @@ TherapistBot is a mobile application under development using MIT App Inventor.  
 
 ## Features (Planned)
 
-* **Guided Meditation Exercises:**  (This is planned for a future release.) Offers a variety of guided meditation scripts to help users relax, de-stress, and improve their mental well-being.
+* **Guided Meditation Exercises:** (This is planned for a future release.) Offers a variety of guided meditation scripts to help users relax, de-stress, and improve their mental well-being.
 * **Mental Health Resources Directory:** (Planned) Provides a curated list of mental health professionals, support organizations, and online resources.
 * **Interactive Cognitive Behavioral Therapy (CBT) Exercises:** (Planned) Includes interactive exercises based on CBT techniques.
 * **Personalized User Profiles:** (Planned) Allows users to create profiles to track their progress.
@@ -38,5 +38,10 @@ TherapistBot is being developed using MIT App Inventor's visual programming inte
 
 ## Project Motivation
 
-This project was inspired by the need for increased access to mental health support.  It demonstrates the feasibility of creating helpful mental health applications using no-code platforms, emphasizing techniques like active listening and therapeutic questioning.  This is an ongoing project with plans for significant expansion.
+This project was inspired by the need for increased access to mental health support. It demonstrates the feasibility of creating helpful mental health applications using no-code platforms, emphasizing techniques like active listening and therapeutic questioning. This is an ongoing project with plans for significant expansion.  For further information and resources related to this project, please visit the original source: [Therapist Bot Resource](https://appinventor.mit.edu/explore/resources/ai/therapist-bot).
+
+## Reference
+
+* Weizenbaum, J. (1966). ELIZA—a computer program for the study of natural language communication between man and machine. *Communications of the ACM*, *9*(1), 26-30.
+
 
