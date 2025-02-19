@@ -14,7 +14,7 @@ Below you'll find a list of the projects included in this portfolio. Each projec
 *   **Outsmart Your Brain Book Review:** A book review and learning tool developed using Google Workspace applications. ([Link to README](./outsmart-your-brain/README.md))
 *   **Web Cat:** A web application demonstrating front-end development skills. ([Link to README](./web-cat/README.md))
 *   **MIT Therapist Bots:** A natural language processing project building a conversational AI therapist. ([Link to README](./mit-therapist-bots/README.md))
-*   **COVID-19 Music Project:** A musical composition created to promote hope and healing during the COVID-19 pandemic. ([Link to README](./covid-19-music-project/README.md))
+*   **COVID-19 Music Project:** A musical composition created to promote hope and healing during the COVID-19 pandemic. ([Link to README](./covid19-music/README.md))
 
 # How to Navigate
 
