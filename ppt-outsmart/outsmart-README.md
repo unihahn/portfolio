@@ -1,8 +1,8 @@
-# Outsmart Your Brain Book Review
+## Outsmart Your Brain Book Review
 
 This project, developed for the American Language Program at Columbia University, demonstrates my proficiency in Google Workspace (Slides, Sheets, and Docs). I created a learning tool and presentation based on "Outsmart Your Brain" by Daniel T. Willingham, showcasing my data organization, analysis, and communication skills.  I also incorporated comparisons with "Fifty Inventions That Shaped the Modern Economy" by Tim Harford, exploring their combined insights on enhancing academic performance for college students.
 
-## Project Overview
+### Project Overview
 
 I:
 
@@ -11,7 +11,7 @@ I:
 * Developed a Google Slides presentation summarizing the review and highlighting productive learning methods, including time management, memorization techniques, procrastination strategies, and exam preparation. 
 
 
-## Skills
+### Skills
 
 I used:
 
@@ -19,5 +19,5 @@ I used:
 * **Google Slides:** Visually appealing presentations with images/illustrations, 2-column slide layouts, and charts/graphs.
 * **Google Docs:** Document formatting, organization, collaboration, sharing, styles, and headings.
 
-## Deliverables
+### Deliverables
 * Link to Slides (HTML) https://se-sally.github.io/portfolio/ppt-outsmart/outsmart.html
