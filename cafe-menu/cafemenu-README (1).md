@@ -1,4 +1,4 @@
-## Cafe Menu Test
+### Cafe Menu Test
 
 A basic cafe menu webpage built using HTML and CSS as part of the FreeCodeCamp Responsive Web Design certification. This project focuses on demonstrating fundamental HTML structure and CSS styling techniques.
 
@@ -14,7 +14,7 @@ A basic cafe menu webpage built using HTML and CSS as part of the FreeCodeCamp R
 
 This project replicates a simple cafe menu layout. It utilizes semantic HTML elements to structure the content and CSS to style the menu for readability and visual appeal. This project emphasizes the use of basic CSS properties like selectors, colors, fonts, and layout techniques. It also showcases how to create a structured and visually appealing webpage using HTML and CSS.
 
-## Features
+### Features
 
 -   A clean and organized cafe menu layout.
 -   Use of semantic HTML elements for proper structure.
@@ -22,12 +22,12 @@ This project replicates a simple cafe menu layout. It utilizes semantic HTML ele
 -   Demonstration of fundamental CSS properties.
 -   Responsive design considerations for basic layout.
 
-## How to Use
+#### How to Use
 
 1.  Open the `cafemenu-index.html` file in your web browser.
 2.  Browse the cafe menu to view the items and prices.
 
-## Technologies Used
+#### Technologies Used
 
 -   HTML
 -   CSS
