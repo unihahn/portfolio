@@ -10,11 +10,11 @@ Sally is an Aspiring AI/ML Engineer with skills in software engineering and IT.
 
 Below you'll find a list of the projects included in this portfolio. Each project has its own README file with more details about the project's goals, implementation, and technologies used.
 
-*   **AI Titanic:** A machine learning project exploring passenger survival on the Titanic. ([Link to README](./machinelearning/titanic/titanic-README.md))
-*   **Outsmart Your Brain Book Review:** A book review and learning tool developed using Google Workspace applications. ([Link to README](./ppt-outsmart/outsmart-README.md))
-*   **Web Cat:** A web application demonstrating front-end development skills. ([Link to README](./web-cat/cat-README.md))
-*   **MIT Therapist Bots:** A natural language processing project building a conversational AI therapist. ([Link to README](./mit-therapistbot/mit-therapistbot-README.md))
-*   **COVID-19 Music Project:** A musical composition created to promote hope and healing during the COVID-19 pandemic. ([Link to README](./music-covid19/earthmusic-covid19-README.md))
+*   **Titanic Survival Prediction:** A machine learning project exploring passenger survival on the Titanic. ([Link to README](./machinelearning/titanic/titanic-README.md))
+*   **CatPhotoApps:** A web application demonstrating front-end development skills. ([Link to README](./web/catapps/cat-README.md))
+*   **MIT Therapist Bots:** A natural language processing project building a conversational AI therapist. ([Link to README](./mobile/mit-therapistbot/mit-therapistbot-README.md))
+*   **Outsmart Your Brain Book Review:** A book review and learning tool developed using Google Workspace applications. ([Link to README](./others/ppt-outsmart/outsmart-README.md))
+*   **COVID-19 Music Project:** A musical composition created to promote hope and healing during the COVID-19 pandemic. ([Link to README](./others/music-covid19/earthmusic-covid19-README.md))
 
 # How to Navigate
 
