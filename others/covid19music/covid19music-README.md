@@ -48,5 +48,3 @@ The project draws inspiration from:
 Due to copyright restrictions and privacy concerns, specific artist names and full song details cannot be included in this README.  This project is intended for portfolio demonstration purposes and showcases the technical skills and creative processes involved in music production. All rights to the original music belong to their respective owners.
 
 This project involved producing music specifically including sound design, beat creation, mixing, mastering and exploring the interplay of traditional and digital music elements within the context of cross over global music tracks.
-
-This project, which involved music producing, was submitted for consideration in the 63rd Grammy Awards.
