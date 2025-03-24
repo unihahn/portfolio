@@ -13,9 +13,9 @@ This webpage provides a brief welcome message to Disneyland, includes a link to 
 
 ### How to View the Project
 
-1.  Save the provided HTML code as an `index.html` file.
-2.  Ensure the image file (named `images.jpeg` in the code) is placed in the same directory as the `index.html` file, or adjust the `src` attribute in the `<img>` tag to the correct path.
-3.  Open the `index.html` file in any web browser.
+1.  Save the provided HTML code as an `pink-index.html` file.
+2.  Ensure the image file (named `images.jpeg` in the code) is placed in the same directory as the `pink-index.html` file, or adjust the `src` attribute in the `<img>` tag to the correct path.
+3.  Open the `pink-index.html` file in any web browser.
 
 ### Content
 
