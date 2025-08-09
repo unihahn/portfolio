@@ -20,6 +20,10 @@ TherapistBot is a mobile application under development using MIT App Inventor. T
 * MIT App Inventor (Primary Development Platform)
 * (Mention any other technologies, libraries, or APIs you used or plan to use.)
 
+### NLP Concepts Applied
+
+Emphasize the NLP principles you implemented (e.g., "Rule-based NLP," "Basic Natural Language Understanding," "Conversational Flow Design"). Even if it's "no-code," you're applying NLP concepts.
+
 ### Development Process
 
 TherapistBot is being developed using MIT App Inventor's visual programming interface. The project involves:
