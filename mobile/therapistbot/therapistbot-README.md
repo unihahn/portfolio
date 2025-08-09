@@ -1,3 +1,11 @@
+# TherapistBot: Natural Language Interaction Prototype
+
+## Visual Demonstration
+
+Here's a look at the TherapistBot in action:
+
+![TherapistBot Main Interface](mit-screenshot1.jpeg)
+
 ## TherapistBot (In Development)
 
 TherapistBot is a mobile application under development using MIT App Inventor. This project is a vastly simplified version of a famous program called ELIZA that was developed at MIT in the early 1960s by Professor Joseph Weizenbaum. It is inspired by ELIZA's approach to natural language interaction, though TherapistBot focuses on providing mental health support resources.  This project is in its early stages and aims to provide users with accessible and convenient mental health support and resources. It explores the potential of no-code development platforms for creating helpful applications in the mental health domain. The app's design is based on core principles of active listening and therapeutic questioning.
@@ -18,7 +26,6 @@ TherapistBot is a mobile application under development using MIT App Inventor. T
 ### Technologies Used
 
 * MIT App Inventor (Primary Development Platform)
-* (Mention any other technologies, libraries, or APIs you used or plan to use.)
 
 ### NLP Concepts Applied
 
