@@ -13,9 +13,9 @@ This project serves as a technical case study in system integration and cross-do
 
 The project demonstrates:
 
-*   **System Coherence**: Successfully bridging an acoustic, high-latency input (zither) with a precise, low-latency digital beat environment.
-*   **Creative Problem Solving**: Applying traditional musical theory (compositional structure, rhythm) to define and execute the parameters of a digital production environment.
-*   **Technical Expertise**: Proficient use of a professional DAW for beat creation, sound design, and complex signal manipulation.
+1.   **System Coherence**: Successfully bridging an acoustic, high-latency input (zither) with a precise, low-latency digital beat environment.
+2.   **Creative Problem Solving**: Applying traditional musical theory (compositional structure, rhythm) to define and execute the parameters of a digital production environment.
+3.   **Technical Expertise**: Proficient use of a professional DAW for beat creation, sound design, and complex signal manipulation.
 
 This work directly translates to my technical practice by showcasing mastery in designing logical frameworks, handling complex data types (acoustic signals vs. digital synthesis), and resolving integration conflicts across different systems.
   
