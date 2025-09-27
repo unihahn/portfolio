@@ -203,6 +203,9 @@ a:hover {
     background: none;
 }
 /* about section styling */
+.about {
+    color: #4a4a4a
+}
 .about .title::after{
     content: "who I am";
 }
@@ -294,6 +297,9 @@ a:hover {
     color: rgb(240, 53, 184) !important; /* Pink color for text when clicked */
 }
 /* skills section styling */
+.skills {
+    color: #4a4a4a;
+}
 .skills .title::after{
     content: "what I know";
 }
